@@ -74,11 +74,6 @@ Workflow	Git · GitHub · VS Code
 
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ══════════════════════ PUBLICATIONS ══════════════════════ -->
-📚 Publications & Community
-✍️ Author of: "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing" and "The Little Cloud Who Didn't Want to Rain"
-💡 Writing & Community: Regular contributor sharing data-analytics insights on Medium & LinkedIn, and mentor to aspiring data analysts
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
 📊 GitHub Analytics
 <div align="center">

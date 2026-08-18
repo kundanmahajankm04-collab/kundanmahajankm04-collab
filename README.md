@@ -2,28 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Kundan%20Mahajan&fontSize=36&fontColor=e2e8f0&fontAlignY=40&desc=Data%20Analyst%20·%20Business%20Insights%20Professional&descSize=15&descAlignY=58" width="100%" />
 
-<!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%7C+Mechanical+Engineer;Business+Insights+Professional;Operational+Excellence+through+Data;Power+BI-led+Strategic+Visualization;Passionate+about+Data+Storytelling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=64748B&center=true&vCenter=true&width=650&height=40&lines=Data+Analyst+%7C+Mechanical+Engineer;Power+BI+·+SQL+·+Python;Turning+raw+data+into+business+decisions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social & Profile Links -->
-<p>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kundanmahajankm04-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    
-<br/>
+<a href="https://www.linkedin.com/in/kundanmahajan01/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kundanmahajan.km04@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/kundanmahajankm04-collab"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
-    
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=kundanmahajankm04-collab&style=flat-square&color=64748b&label=Profile+Views" alt="Visitor Count" />
 
 </div>
@@ -68,15 +58,12 @@ I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3
 
 <br/>
 
----
-
-## 🏆 Publications & Community
+## Publications & Community
 
 - **Author:** *"Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"* & *"The Little Cloud Who Didn't Want to Rain"*
 - **Writing & Community:** Regular contributor sharing data analytics insights on Medium & LinkedIn; mentor to aspiring data analysts.
 
----
-
+<br/>
 
 ## GitHub Stats
 
@@ -110,25 +97,6 @@ I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3
 </div>
 
 <br/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=kundanmahajankm04-collab&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-
-<!-- Daily Quote Widget -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-
-</div>
 
 ## Just for Fun
 

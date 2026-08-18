@@ -104,10 +104,7 @@ Workflow	Git · GitHub · VS Code
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ FUN ══════════════════════ -->
-😄 Just for Fun
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
-  <br/><br/>
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </div>
 <br/>

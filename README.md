@@ -68,6 +68,16 @@ I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3
 
 <br/>
 
+---
+
+## 🏆 Publications & Community
+
+- **Author:** *"Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"* & *"The Little Cloud Who Didn't Want to Rain"*
+- **Writing & Community:** Regular contributor sharing data analytics insights on Medium & LinkedIn; mentor to aspiring data analysts.
+
+---
+
+
 ## GitHub Stats
 
 <div align="center">
@@ -100,6 +110,25 @@ I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3
 </div>
 
 <br/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=kundanmahajankm04-collab&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Daily Quote Widget -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+</div>
 
 ## Just for Fun
 

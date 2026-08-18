@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=160&section=header&text=Kundan%20Mahajan&fontSize=36&fontColor=e2e8f0&fontAlignY=40&desc=Data%20Analyst%20·%20Business%20Insights%20Professional&descSize=15&descAlignY=58" width="100%" />
 
+<!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=64748B&center=true&vCenter=true&width=650&height=40&lines=Data+Analyst+%7C+Mechanical+Engineer;Power+BI+·+SQL+·+Python;Turning+raw+data+into+business+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Data+Analyst+%7C+Mechanical+Engineer;Business+Insights+Professional;Operational+Excellence+through+Data;Power+BI-led+Strategic+Visualization;Passionate+about+Data+Storytelling" alt="Typing SVG" />
 </a>
 
 <br/>

@@ -23,14 +23,6 @@
 <br/>
 
 </div>
-
----
-
-<p align="center">
-  <em>"Engineer by training, Data Analyst by passion — driving operational excellence through SQL, Python, and Power BI-led strategic visualization."</em>
-</p>
-
----
     
 <img src="https://komarev.com/ghpvc/?username=kundanmahajankm04-collab&style=flat-square&color=64748b&label=Profile+Views" alt="Visitor Count" />
 

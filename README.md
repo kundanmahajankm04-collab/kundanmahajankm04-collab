@@ -30,11 +30,13 @@
 <!-- ══════════════════════ ABOUT ══════════════════════ -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding gif" />
-I'm Kundan Ashok Mahajan — a Data Analyst and Mechanical Engineer with 3+ years of experience across industrial engineering, project execution, and data-driven decision-making.
-📊 I build interactive Power BI dashboards that turn large, messy datasets into clear business decisions
-⚙️ I blend an engineering foundation with analytical rigor and a process-improvement mindset
-🔍 Currently deepening my expertise in statistical modeling, automation, and modern visualization
-✍️ Off the clock, I'm a published author and mentor to aspiring analysts
+I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3+ years of experience** in industrial engineering, project execution, and data-driven decision-making, complemented by expertise in data operations and business analytics.
+
+- 📊 **What I Do:** Build interactive Power BI dashboards, analyze large datasets using SQL and Python, and transform complex business metrics into actionable insights.
+- 🧠 **My Background:** An engineering foundation that combines rigorous analytical thinking with process improvement and strategic problem-solving.
+- 🚀 **Continuous Growth:** Constantly expanding expertise in advanced statistical modeling, data automation, and modern visualization technologies.
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->

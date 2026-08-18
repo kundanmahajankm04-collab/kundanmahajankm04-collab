@@ -85,11 +85,13 @@ Workflow	Git · GitHub · VS Code
   <img src="https://github-readme-stats.vercel.app/api?username=kundanmahajankm04-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundanmahajankm04-collab&theme=tokyonight&hide_border=true&background=0d1117" height="170" alt="GitHub Streak" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanmahajankm04-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kundanmahajankm04-collab&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="98%" alt="Contribution Activity Graph" />

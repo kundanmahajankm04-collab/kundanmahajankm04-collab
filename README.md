@@ -30,7 +30,7 @@
 <!-- ══════════════════════ ABOUT ══════════════════════ -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding gif" />
-I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with **3+ years of experience** in industrial engineering, project execution, and data-driven decision-making, complemented by expertise in data operations and business analytics.
+I'm "Kundan Ashok Mahajan" — a Data Analyst and Mechanical Engineer with **3+ years of experience** in industrial engineering, project execution, and data-driven decision-making, complemented by expertise in data operations and business analytics.
 
 - 📊 **What I Do:** Build interactive Power BI dashboards, analyze large datasets using SQL and Python, and transform complex business metrics into actionable insights.
 - 🧠 **My Background:** An engineering foundation that combines rigorous analytical thinking with process improvement and strategic problem-solving.
@@ -54,15 +54,25 @@ Data Handling	Pandas · NumPy
 Workflow	Git · GitHub · VS Code
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
-🚀 Featured Projects
-<div align="center">
-Table
-Project	Impact	Stack
-https://github.com/kundanmahajankm04-collab/Amazon-fraud-Dashboard	🕵️ E-commerce fraud detection & risk analytics across 200K+ transactions	Power BI Python DAX
-https://github.com/kundanmahajankm04-collab/trader-sentiment-analysis	📈 Sentiment-driven trading signal analysis	Python
-Sales Performance Dashboard	💼 Executive BI dashboard tracking multi-region KPIs — +15% visibility	SQL Power BI DAX
-</div>
+## 📊 Featured Data Projects
+
+| Project & Business Impact | Tech Stack | Repository |
+| :--- | :--- | :--- |
+| **Supply Chain & Inventory Optimization**<br>Analyzed 500K+ supply chain records to resolve stockout bottlenecks and optimize overall fulfillment efficiency. | `Python` `Pandas` `Power BI` | [View Repo](https://github.com/kundanmahajankm04-collab) |
+| **Sales Performance & Revenue Dashboard**<br>Built an interactive executive BI dashboard tracking multi-region KPIs, boosting performance visibility by 15%. | `SQL` `Power BI` `DAX` | [View Repo](https://github.com/kundanmahajankm04-collab) |
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 Publications & Community
+
+- **Author:** *"Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"* & *"The Little Cloud Who Didn't Want to Rain"*
+- **Writing & Community:** Regular contributor sharing data analytics insights on Medium & LinkedIn; mentor to aspiring data analysts.
+
+---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ PUBLICATIONS ══════════════════════ -->
 📚 Publications & Community

@@ -5,6 +5,18 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1100&color=60A5FA&center=true&vCenter=true&width=780&height=55&lines=Data+Analyst+%7C+Mechanical+Engineer;Business+Insights+Professional;Operational+Excellence+through+Data;Power+BI-led+Strategic+Visualization;Turning+Raw+Data+into+Decisions;Passionate+about+Data+Storytelling" alt="Typing SVG" />
 </a>
+  <!-- Social & Profile Links -->
+<p>
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kundanmahajankm04-collab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 <!-- Profile Views + Followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=kundanmahajankm04-collab&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -23,19 +35,6 @@ I'm Kundan Ashok Mahajan — a Data Analyst and Mechanical Engineer with 3+ year
 ⚙️ I blend an engineering foundation with analytical rigor and a process-improvement mindset
 🔍 Currently deepening my expertise in statistical modeling, automation, and modern visualization
 ✍️ Off the clock, I'm a published author and mentor to aspiring analysts
-
-<!-- Social & Profile Links -->
-<p>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kundanmahajankm04-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
 🤝 Connect With Me

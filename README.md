@@ -9,9 +9,16 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kundanmahajan01/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kundanmahajan.km04@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/kundanmahajankm04-collab"><img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- Social & Profile Links -->
+<p>
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kundanmahajankm04-collab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 <img src="https://komarev.com/ghpvc/?username=kundanmahajankm04-collab&style=flat-square&color=64748b&label=Profile+Views" alt="Visitor Count" />
 

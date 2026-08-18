@@ -91,11 +91,7 @@ Built an interactive executive BI dashboard tracking multi-region KPIs, boosting
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kundanmahajankm04-collab&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="98%" alt="Contribution Activity Graph" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-<!-- ══════════════════════ TROPHIES ══════════════════════ -->
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=kundanmahajankm04-collab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
-</div>
+
 <!-- ══════════════════════ SNAKE ══════════════════════ -->
 🐍 Contribution Snake
 <div align="center">

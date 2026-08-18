@@ -36,13 +36,6 @@ I'm Kundan Ashok Mahajan — a Data Analyst and Mechanical Engineer with 3+ year
 🔍 Currently deepening my expertise in statistical modeling, automation, and modern visualization
 ✍️ Off the clock, I'm a published author and mentor to aspiring analysts
 
-<!-- ══════════════════════ CONNECT ══════════════════════ -->
-🤝 Connect With Me
-<div align="center">
-<a href="https://www.linkedin.com/in/kundanmahajan01/">
-<a href="mailto:kundanmahajan.km04@gmail.com">
-<a href="https://github.com/kundanmahajankm04-collab">
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 🛠️ Tech Stack

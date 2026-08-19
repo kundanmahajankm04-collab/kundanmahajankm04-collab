@@ -34,7 +34,6 @@ I'm Kundan Ashok Mahajan — a Data Analyst and Mechanical Engineer with 3+ year
 📊 What I Do: Build interactive Power BI dashboards, analyze large datasets using SQL and Python, and transform complex business metrics into actionable insights
 🧠 My Background: An engineering foundation that combines rigorous analytical thinking with process improvement and strategic problem-solving
 🚀 Continuous Growth: Constantly expanding expertise in advanced statistical modeling, data automation, and modern visualization technologies
-📫 Reach Me: kundanmahajan.km04@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
